@@ -1,0 +1,2 @@
+nombre = FABIO
+print(nombre)
